@@ -1,0 +1,9 @@
+--@name Dragonscape
+--@author Periapsis
+--@shared
+
+if SERVER then
+end
+
+if CLIENT then
+end
